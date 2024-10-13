@@ -1,0 +1,5 @@
+__pycache__/
+stockfish/
+*.jpg
+*.png
+*.pt

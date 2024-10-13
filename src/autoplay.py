@@ -1,0 +1,1 @@
+#The tool plays chess on chess.com automatically
